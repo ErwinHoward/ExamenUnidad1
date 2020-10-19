@@ -1,0 +1,34 @@
+.camara{
+    background-image: url(../images/camera.jpg);
+    height: 300px;
+    width: 99%;
+    margin-top: 2%;
+    margin-left: 1em;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+
+.ojo{
+    background-image: url(../images/ojo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    margin-left: .5%;
+    margin-top: 2%;
+}
+
+.lentecamara{
+    background-image: url(../images/lentecamara.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    margin-left: .5%;
+    margin-top: 2%;
+}
+
+.textolentecamara
+{
+    font-size: 200%;
+}

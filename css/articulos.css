@@ -1,0 +1,37 @@
+.imagenes{
+    float: left;
+    width: 20%;
+    height: 20%;
+    margin-left: 8em;
+    margin-top: 2em;
+}
+
+.lente31{
+    width: 1%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../images/lente31.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lente32{
+    width: 1%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../images/lente32.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lente33{
+    width: 1%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../images/lente33.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
